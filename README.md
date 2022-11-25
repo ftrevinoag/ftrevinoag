@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ftrevinoag
 - 👀 I’m interested in making beautiful and functioning tools
-- 🌱 Current web developer student at Laboratoria
+- 🌱 Current web developer student 
 - 📫 You can reach me here: ftrevinoag@gmail.com
 
 <!---
