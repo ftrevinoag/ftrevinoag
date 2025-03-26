@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ftrevinoag
 - 👀 I’m interested in making beautiful and functioning tools
-- 🌱 Current web developer student 
+- 🌱 Current full stack developer
 - 📫 You can reach me here: ftrevinoag@gmail.com
 
 <!---
